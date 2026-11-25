@@ -7,11 +7,9 @@ The sentence is a single memory: a ramen counter in Osaka.
 import os
 from pathlib import Path
 
-# The entry: one sentence, 180 chars, about the best meal ever had.
+# The entry: one sentence, 183 chars, about the best meal ever had.
 MEAL_SENTENCE = (
-    "In a tiny ramen shop in Osaka, the chef slid the bowl across the "
-    "counter without a word, the broth was black with soy and sesame, "
-    "and the silence while I ate it was the compliment."
+    "My grandmother's burnt-edge skillet cornbread eaten over the sink at midnight—crisp lard crust, cold salted butter, and the quiet mercy of someone who loved me without ever saying it."
 )
 
 
